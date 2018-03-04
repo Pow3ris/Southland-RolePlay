@@ -1,0 +1,34 @@
+Soutland serverio atunaujinimas - 1.1.46
+
+Patobulinimai:
+http://www.forumas.southland.lt/viewtopic.php?f=34&t=1787
+http://www.forumas.southland.lt/viewtopic.php?f=34&t=1815
+http://www.forumas.southland.lt/viewtopic.php?f=34&t=1788 
+http://www.forumas.southland.lt/viewtopic.php?f=34&t=1685
+
+*Verslai ir namai:
+Jeigu veikėjas ant kurio turi namą ar verslą (Vardas_Pavardė), neprisijungia bent karta į
+savaite, namas arba verslas automatiškai užsidėtu pardavimas tokia kainą kuri buvo , kaip 
+buvo įkeltas namas ar verslas su kainą ir šie pinigai nukeliautu į /charity (miesto savivaldybės biudžetą).
+
+*Per /gmenu ( garažo menu) butu galima duoti garažo raktus žaidėjui , kaip dabar yra su namai /hmenu.
+
+*Apmokymu sistema
+Kaip susikuri prisiregistruoji į serveri su savo MASTER , tada susikuri savo veikėja Vardas_Pavardė ir jį patvirtinus administracijai,
+ir kaip tik pati pirma karta prisijungus su šiuo Vardas_Pavardė atsirastu gui su Ar norite peržiūrėti apmokimus? Taip/Ne.
+Paspaudus Taip - vaizdas būtų į tam tikra vieta ir aprašymas apie sistemą ar kita svarbi informaciją ( Gerai būtų su textdraw).
+Paspaudus Ne - iškart pradeda žaidimą.
+
+*Alkio sistema
+Kas 4 valandas reikėtu pavalgyti, jei to nepadarius pradėtu nusiimti HP po 10proc. Taip pat , kada jau pradėtu norėti valgyti išmestu į pokalbiu chata 
+> Vardas Pavardė pradeda gurgti pilvas.
+
+Klaidų Taisymas:
+http://www.forumas.southland.lt/viewtopic.php?f=46&t=1740 Padaryti jog atsirastu objektai viršuje ir jog galėtu pats koreguoti poziciją.
+http://www.forumas.southland.lt/viewtopic.php?f=46&t=2105 sutvarkyti jog žaidžiant originalius kazino žaidimus, laimėtus pinigus gautum ir 
+juos galėtu išleisti.
+http://www.forumas.southland.lt/viewtopic.php?f=46&t=1767 t.y. 1  Kai skambini telefonu ir jis nepakelia telefono, vistiek lieka jisai rankoje , 4  padaryti jog per rėmėjo meniu leistu keisti į savo norimus transporto numerius,
+5 padaryti jog tik vad.administratorius galėtu uždėti darbą (pašalinti įsidarbinimo vietą).
+http://www.forumas.southland.lt/viewtopic.php?f=46&t=1741 - reikia perdaryti jei auto lock paspaudus g nieko nereaguotu.
+*Sutvarkyti jog automobilių salonuose neberašytu jog visi automobiliai varomi Elektrą.
+*Sutvarkyti jog random namai po serverio restarto pasidaro parduodami reikia jog tokio š nebebūtu.
